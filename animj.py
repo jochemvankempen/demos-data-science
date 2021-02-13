@@ -39,7 +39,9 @@ def def_lines(ax, plotdata):
         
     elif num_dims==3:
         lines = [ax.plot(dat[0, 0:1], dat[1, 0:1], dat[2, 0:1])[0] for dat in plotdata] # plot x,y,z for first samples
-        
+    
+    else:
+        raise ValueError('def_lines not implemented for numdimensions=%d' % num_dims)
     
     return lines
 
