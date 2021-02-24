@@ -1,12 +1,17 @@
-# dimensionality-reduction-demo
+# demos
 
-This repository contains code to apply dimensionality reduction techniques to (neural) data. 
+This repository contains code to apply 
 
 ## Techniques
 
-### PCA
-Perform principal component analysis (PCA) on neural data, over time-averaged and time-resolved data: 
-[dimensionality-reduction-demo-PCA](./dimensionality-reduction-demo-PCA.ipynb).
+### AUROC (signal-detection)
+Compute area under receiver operating characteristic curve:
+[signal-detection-AUROC](./signal-detection-AUROC.ipynb).
+
+
+### PCA (dimensionality-reduction)
+Perform principal component analysis (PCA) on neural activity, over time-averaged and time-resolved data: 
+[dimensionality-reduction-PCA](./dimensionality-reduction-PCA.ipynb).
 
 ## Licence
 This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
