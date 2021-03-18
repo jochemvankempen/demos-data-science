@@ -8,6 +8,10 @@ This repository contains a step-by-step guide to a selection of analyses techniq
 Compute area under receiver operating characteristic curve:
 [signal-detection-AUROC](./signal-detection-AUROC.ipynb).
 
+### Logistic regression
+Compute logistic regression, general linear model.
+[GLM-logistic-regression](./GLM-logistic-regression.ipynb)
+
 ### Maximum likelihood estimation
 Compute maximum likelihood estimation (MLE) in model fitting.
 [MLE](./maximum-likelihood-estimation.ipynb)
