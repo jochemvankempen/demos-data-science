@@ -1,6 +1,6 @@
 # demos
 
-This repository contains code to apply 
+This repository contains a step-by-step guide to a selection of analyses techniques listed below.
 
 ## Techniques
 
@@ -8,6 +8,9 @@ This repository contains code to apply
 Compute area under receiver operating characteristic curve:
 [signal-detection-AUROC](./signal-detection-AUROC.ipynb).
 
+### Maximum likelihood estimation
+Compute maximum likelihood estimation (MLE) in model fitting.
+[MLE](./maximum-likelihood-estimation.ipynb)
 
 ### PCA (dimensionality-reduction)
 Perform principal component analysis (PCA) on neural activity, over time-averaged and time-resolved data: 
