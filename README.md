@@ -20,6 +20,10 @@ Compute maximum likelihood estimation (MLE) in model fitting.
 Perform principal component analysis (PCA) on neural activity, over time-averaged and time-resolved data: 
 [dimensionality-reduction-PCA](./dimensionality-reduction-PCA.ipynb).
 
+### Recurrent neural network (RNN) in pytorch
+Predict behavioural output (time series) based on neural activity in primary motor cortex. 
+[RNN](./motor_output_prediction.ipynb)
+
 ## Licence
 This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
 
